@@ -26,7 +26,7 @@ public class JPage extends HttpServlet {
 	 * The package (java) to search for future clases. 
 	 * 
 	 */
-	public static final String jnhpPackage = "it.should.be.extended.";
+	public static final String jnhpPackage = "ccb.demo.";
 
 	public void destroy() {
 		super.destroy();

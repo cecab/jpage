@@ -1,7 +1,6 @@
 package compulinux.jpage ;
 import org.apache.log4j.* ;
-import  com.compulinux.jnhp.* ;
-import javax.servlet.*;
+
 import javax.servlet.http.*;
 import java.util.* ;
 /** Clase para paginar elementos de tipo arrays. Como los resportes
